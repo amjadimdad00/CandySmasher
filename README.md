@@ -4,7 +4,7 @@
 
 ### CandySmasher Game
 
-SweetCrush is a fun and engaging puzzle game that challenges players to match colorful candies in rows or columns of three or more. With each level, the difficulty increases, introducing new challenges and obstacles. Special candies and power-ups can help you clear the board more efficiently, making the game both strategic and exciting.
+CandySmasher is a fun and engaging puzzle game that challenges players to match colorful candies in rows or columns of three or more. With each level, the difficulty increases, introducing new challenges and obstacles. Special candies and power-ups can help you clear the board more efficiently, making the game both strategic and exciting.
 
 ### Technologies Used
 
